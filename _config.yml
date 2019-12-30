@@ -1,0 +1,10 @@
+# Site settings
+title: Andrei Barbu
+tag_text: Andrei Barbu
+description: Andrei Barbu - Software Engineer, Backend Developer, RPA Engineer
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
