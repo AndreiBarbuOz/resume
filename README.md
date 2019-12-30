@@ -1,11 +1,5 @@
-## Deprecated: Use my new theme "Duo" instead:
+# Andrei Barbu
 
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+Using [Solo](http://chibicode.github.io/solo) as a Jekyll theme that supports **single-page websites** only.
 
----
-
-# Solo
-
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Built and hosted [here](https://andreibarbuoz.github.io/resume/)
